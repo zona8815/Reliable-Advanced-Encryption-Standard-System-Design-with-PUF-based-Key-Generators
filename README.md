@@ -6,11 +6,12 @@ Hardware Trojans and side channel attacks have become serious threatens for mode
 ## Implementation
 Xilinx EGO-XA7 <br>
 Xilinx Zynq-7000 SoC ZC702
-
 ### DEMO Video
+#### AES System
 * AES System implementation <br>
 https://youtu.be/OkCJ7bmQvAY
-* AES System's key goes through Arbiter PUF first, then regards the output from PUF as the key for AES System <br>
+#### AES System with APUF
+* AES System's key goes through APUF first, then regards the output from APUF as the key for AES System <br>
 https://youtu.be/KdBpwB4q1zk
 * Same with the above, but changes the data which is needed to be encrypted <br>
 https://youtu.be/oGrUIWSobdk
