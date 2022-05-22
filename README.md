@@ -7,6 +7,14 @@ Hardware Trojans and side channel attacks have become serious threatens for mode
 Xilinx EGO-XA7 <br>
 Xilinx Zynq-7000 SoC ZC702
 
+### DEMO Video
+* AES System implementation <br>
+https://youtu.be/OkCJ7bmQvAY
+* AES System's key goes through Arbiter PUF first, then regards the output from PUF as the key for AES System <br>
+https://youtu.be/KdBpwB4q1zk
+* Same with the above, but changes the data which is needed to be encrypted <br>
+https://youtu.be/oGrUIWSobdk
+
 ## Reference
 1. Xue, M., Gu, C., Liu, W., Yu, S. and O'Neill, M. (2020), Ten years of hardware Trojans: a survey from the attacker's perspective. IET Comput. Digit. Tech., 14: 231-246. doi: 10.1049/iet-cdt.2020.0041 
 2. G. E. Suh and S. Devadas, "Physical Unclonable Functions for Device Authentication and Secret Key Generation," 2007 44th ACM/IEEE Design Automation Conference, 2007, pp. 9-14.
